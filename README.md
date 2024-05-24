@@ -30,3 +30,6 @@ The performance of the object detection models on the MNIST_objectDetection data
 
 ### Classification Results
 ![Classification Table](ClassificationTable.png)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
